@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "lian_617-1.16.5",
-      "name": "lian_617 (Minecraft 1.16.5)",
-      "description": "lian_617 Running Minecraft 1.16.5 (Forge v36.2.41)",
+      "name": "LKM (Minecraft 1.16.5)",
+      "description": "LKM Running Minecraft 1.16.5 (Forge v36.2.41)",
       "icon": null,
       "version": "1.0.0",
       "address": "lian2024.kro.kr",
